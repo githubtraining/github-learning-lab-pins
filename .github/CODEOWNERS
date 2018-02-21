@@ -1,0 +1,17 @@
+# protected folders requiring code owner review when changed
+.github/*           @githubschool/training-team
+_layouts/*          @githubschool/training-team
+images/*            @githubschool/training-team
+tests/*             @githubschool/training-team
+
+# protected files requiring code owner review when changed
+.gitignore          @githubschool/training-team
+.travis.yml         @githubschool/training-team
+.yamllint           @githubschool/training-team
+_config.yml         @githubschool/training-team
+Gemfile             @githubschool/training-team
+Gemfile.lock        @githubschool/training-team
+createMap.topojson  @githubschool/training-team
+index.html          @githubschool/training-team
+mapsAPI.js          @githubschool/training-team
+render.js           @githubschool/training-team
